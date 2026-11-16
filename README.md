@@ -1,11 +1,12 @@
-###############################################################
-#
-# README.md
-# Tugas 3 STSI4303 - Pemrograman Berbasis Perangkat Bergerak
-#
-# Dhanu Sugeng Zulanto
-# 052557741
-# Sistem Informasi S1
-# UPBJJ Kota Semarang
-#
-###############################################################
+# Tugas 3 STSI4303
+
+## Pemrograman Berbasis Perangkat Bergerak
+
+### Identitas Mahasiswa
+
+| Keterangan | Detail |
+|---|---|
+| Nama | Dhanu Sugeng Zulanto |
+| NIM | 052557741 |
+| Program Studi | Sistem Informasi S1 |
+| UPBJJ | Kota Semarang |
